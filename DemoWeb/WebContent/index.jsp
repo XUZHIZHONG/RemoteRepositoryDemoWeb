@@ -8,6 +8,6 @@
 </head>
 <body>
 <h3><a href="/DemoWeb/photo.view"></a></h3>
-<img  src="/DemoWeb/photo.view">
+<img  src="/DemoWeb/photo.view" />
 </body>
 </html>
