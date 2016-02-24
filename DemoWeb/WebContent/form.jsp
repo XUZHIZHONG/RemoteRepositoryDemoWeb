@@ -4,12 +4,14 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Insert title here</title>
+<title>Form</title>
 </head>
 <body>
 
-<form action="view/DemoServlet" method="POST">     
-<input type="text" name="username">
+<form action="/DemoWeb/demo.view" method="POST">     
+<input type="text" name="name" value="Samuel">
+<input type="checkbox" name="game" value="S">數獨
+<input type="checkbox" name="game" value="M">麻將
 <input type="submit" value="送出"> 
 
 </form>

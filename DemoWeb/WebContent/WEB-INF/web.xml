@@ -21,7 +21,7 @@
   </servlet>
   <servlet-mapping>
   <servlet-name>DemoServlet</servlet-name>
-  <url-pattern>/view/DemoServlet</url-pattern>
+  <url-pattern>/demo.view</url-pattern>
   </servlet-mapping>
   <resource-ref>
   
