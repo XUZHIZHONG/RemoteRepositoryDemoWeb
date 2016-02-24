@@ -4,9 +4,12 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Insert title here</title>
+<title>New feature</title>
 </head>
 <body>
+
 <h1>This is a feature</h1>
+<h1>This is a feature,too</h1>
+
 </body>
 </html>
