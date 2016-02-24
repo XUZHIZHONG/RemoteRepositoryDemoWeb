@@ -8,7 +8,7 @@
 </head>
 <body>
 
-<form action="/DemoWeb/demo.view" method="POST">     
+<form action="/DemoWeb/function/demo1.view" method="POST">     
 <input type="text" name="name" value="Samuel">
 <input type="checkbox" name="game" value="S">數獨
 <input type="checkbox" name="game" value="M">麻將
