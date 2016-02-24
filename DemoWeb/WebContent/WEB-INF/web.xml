@@ -14,10 +14,14 @@
   <servlet>
   <servlet-name>DemoServlet</servlet-name>
   <servlet-class>view.DemoServlet</servlet-class>
+  <init-param>
+  <param-name>defaultFile</param-name>
+  <param-value>/img/x.png</param-value>
+  </init-param>
   </servlet>
   <servlet-mapping>
   <servlet-name>DemoServlet</servlet-name>
-  <url-pattern>/view/DemoServlet</url-pattern>
+  <url-pattern>/demo.view</url-pattern>
   </servlet-mapping>
   <resource-ref>
   
